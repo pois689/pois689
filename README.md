@@ -35,12 +35,24 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pois689&hide=stars,contribsshow_icons=true&count_private=true&theme=radical&include_all_commits=true)
 
 </div>
+<br>
 
-<h2 align="center">:speech_balloon: Cummunication :speech_balloon:</h2>
+<h2 align="center">:speech_balloon: Gmail Link :speech_balloon:</h2>
 <br>
 
 <div align="center">
   
 <a href="mailto:poia68900@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=poia68900@gmail.com"/></a>
 
+</div>
+
+<br>
+
+<h2 align="center">:globe_with_meridians: Portfolio Website :globe_with_meridians:</h2>
+<br>
+
+<div align="center">
+  
+추가 예정
+  
 </div>
