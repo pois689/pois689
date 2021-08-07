@@ -1,8 +1,7 @@
 👋
 # Welcome To My Github !!!
 
-## Wave <a id="wave">
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+![Kim Seung Hyun](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 
 <div align="center">
 
