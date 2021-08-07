@@ -2,7 +2,12 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=EBF5FB&height=200&fontSize=60&text=KimSeungHyun&fontAlign=50&fontAlignY=50)
 
-<h2 align="center">:orange_book: Technology Stack :orange_book:</h2>
+
+<div align="center">
+  
+   # :orange_book: Technology Stack :orange_book:
+  
+</div>
 <br>
 
 <p align="center">
