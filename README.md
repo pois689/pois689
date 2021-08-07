@@ -3,6 +3,8 @@
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=EBF5FB&height=200&fontSize=60&text=KimSeungHyun&fontAlign=50&fontAlignY=50)
 
+<h2 align="center">:notebook: Technology Stack :notebook:</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp
@@ -17,11 +19,15 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=ApacheMaven&logoColor=white"/>&nbsp
-  
+  <img src="https://img.shields.io/badge/Clickup-7B68EE?style=flat-square&logo=clickup&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>&nbsp
 </p>
 
+<br>
 <br>
 
 <div align="center">
