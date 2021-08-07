@@ -3,6 +3,7 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=EBF5FB&height=200&fontSize=60&text=KimSeungHyun&fontAlign=50&fontAlignY=50)
 
 <h2 align="center">:orange_book: Technology Stack :orange_book:</h2>
+<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
@@ -36,6 +37,7 @@
 </div>
 
 <h2 align="center">:speech_balloon: Cummunication :speech_balloon:</h2>
+<br>
 
 <div align="center">
   
