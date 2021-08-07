@@ -1,7 +1,7 @@
 👋
 # Welcome To My Github !!!
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=KimSeungHyun&fontAlign=80&fontAlignY=40&color=gradient)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=#EBF5FB&height=200&text=Kim Seung Hyun&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
 
 <div align="center">
 
