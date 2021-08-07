@@ -1,9 +1,8 @@
-👋
-# Welcome To My Github !!!
+# 👋 Welcome To My Github !!!
 
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=EBF5FB&height=200&fontSize=60&text=KimSeungHyun&fontAlign=50&fontAlignY=50)
 
-<h2 align="center">:notebook: Technology Stack :notebook:</h2>
+<h2 align="center">:orange_book: Technology Stack :orange_book:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
@@ -36,4 +35,10 @@
 
 </div>
 
+<h2 align="center">:speech_balloon: Cummunication :speech_balloon:</h2>
 
+<div align="center">
+  
+<a href="mailto:poia68900@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=poia68900@gmail.com"/></a>
+
+</div>
